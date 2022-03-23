@@ -1,6 +1,8 @@
 # php
 
  Framework Concepts
- MVC
+ MVC / OOP
  Routing
+ Composer
+ .env
  
