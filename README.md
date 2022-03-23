@@ -1,8 +1,8 @@
 # php
 
- Framework Concepts
- MVC / OOP
- Routing
- Composer
- .env
+- Framework Concepts
+- MVC / OOP
+- Routing
+- Composer
+- .env
  
